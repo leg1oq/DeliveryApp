@@ -1,4 +1,4 @@
-# Sistem de Livrare — JavaFX + PostgreSQL
+# Sistem de Livrare — JavaFX + SQLite
 
 
 ## Configurare baza de date
